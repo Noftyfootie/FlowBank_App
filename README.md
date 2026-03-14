@@ -1,6 +1,6 @@
-# Bankist App
+# FlowBank App
 
-Bankist is a **fully functional front-end banking application** that simulates the behavior of a modern digital bank.
+FlowBank is a **fully functional front-end banking application** that simulates the behavior of a modern digital bank.
 
 The application allows users to manage their accounts, transfer money, request loans, and track transactions in a simple and intuitive interface.
 
