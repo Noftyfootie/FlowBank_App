@@ -25,7 +25,7 @@ After login, the dashboard displays:
 
 # Money Transfers
 
-Users can instantly transfer money to another Bankist account.
+Users can instantly transfer money to another FlowBank account.
 
 Features:
 
