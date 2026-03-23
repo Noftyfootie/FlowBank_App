@@ -142,6 +142,7 @@ Concepts demonstrated:
 - Timers
 - Sorting algorithms
 - Application state management
+- Dark mode
 
 ---
 
