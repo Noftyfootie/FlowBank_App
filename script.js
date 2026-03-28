@@ -407,10 +407,12 @@ btnSort.addEventListener('click', function (e) {
   timer = startLogOutTimer();
 });
 
-/*Add dark mode*/
+//Add dark mode
 
 const btnDarkMode = document.querySelector('.btn--dark-mode');
 
 btnDarkMode.addEventListener('click', function () {
   document.body.classList.toggle('dark-mode');
 });
+
+console.log('DONE FOR NOW');
