@@ -416,3 +416,4 @@ btnDarkMode.addEventListener('click', function () {
 });
 
 console.log('DONE FOR NOW');
+console.log('what are you doing');
